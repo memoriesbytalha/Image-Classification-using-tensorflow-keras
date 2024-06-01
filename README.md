@@ -1,3 +1,4 @@
+Note : I have added data files but unfortunately some git error, It's not showing.
 # Image Classification with CNNs
 
 This repository contains an image classification project using Convolutional Neural Networks (CNNs) implemented with TensorFlow and Keras. The goal of this project is to classify images into predefined categories. The dataset used for training and evaluation is organized into separate directories for each class.
